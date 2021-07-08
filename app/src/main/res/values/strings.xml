@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PSLesson08</string>
+    <string-array name="location_array">
+        <item>Please select a location</item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
